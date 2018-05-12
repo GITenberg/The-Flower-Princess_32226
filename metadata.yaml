@@ -1,0 +1,34 @@
+_repo: The-Flower-Princess_32226
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32226-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+description: The flower princess -- The little friend -- The mermaid's child -- The
+  ten blowers.
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Mermaids -- Juvenile fiction'
+tableOfContents: The flower princess -- The little friend -- The mermaid's child --
+  The ten blowers.
+title: The Flower Princess
+url: http://www.gutenberg.org/ebooks/32226
