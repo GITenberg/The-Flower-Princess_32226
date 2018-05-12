@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5282
 description: The flower princess -- The little friend -- The mermaid's child -- The
   ten blowers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32226#The-Flower-Princess
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
